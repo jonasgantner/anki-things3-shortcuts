@@ -9,7 +9,13 @@ Back: keyboard shortcut + explanation where relevant
 Cards are tagged by category so you can study specific groups
 Clean light mode design with color-coded categories
 
-Available as .apkg (import directly into Anki) and .csv (if you want to customize or use with other flashcard apps).
+## Download and import
+
+1. [Download the Anki deck (.apkg)](https://github.com/jonasgantner/anki-things3-shortcuts/raw/refs/heads/main/Things3_Keyboard_Shortcuts.apkg).
+2. In Anki Desktop, choose **File → Import** and select `Things3_Keyboard_Shortcuts.apkg`.
+3. Open the imported deck from the **Decks** screen to start reviewing.
+
+[Download the CSV](https://github.com/jonasgantner/anki-things3-shortcuts/raw/refs/heads/main/Things%203%20Shortcuts.csv) to edit the cards in a spreadsheet or use them in another flashcard app.
 
 Source: https://culturedcode.com/things/support/articles/2939808/
 
